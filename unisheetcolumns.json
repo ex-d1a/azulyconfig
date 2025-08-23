@@ -28,9 +28,14 @@
   "Specialist Eligibility": "Q",
   "Cadet SE": "K",
   "Specialist Escorts": "J",
-  "placehold1": "B",
-  "placehold2": "A",
-  "placehold3": "A",
-  "placehold4": "A",
-  "placehold5": "A"
+  "Cadet Leftmost": "C",
+  "Cadet Rightmost": "M",
+  "Junior Leftmost": "C",
+  "Junior Rightmost": "M",
+  "Sentinel Leftmost": "C",
+  "Sentinel Rightmost": "O",
+  "Specialist Leftmost": "C",
+  "Specialist Rightmost": "O",
+  "Quota Leftmost": "C",
+  "Quota Rightmost": "I"
 }
