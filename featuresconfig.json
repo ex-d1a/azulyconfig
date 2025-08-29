@@ -1,0 +1,18 @@
+{
+  "trainingrequests": true,
+  "trainingrequestsmanagement": true,
+  "permrolesgeneral": true,
+  "permrolesediting": true,
+  "createuniversalsheetentry": true,
+  "logpromotion": true,
+  "addvotingreactions": true,
+  "logtraining": true,
+  "admincommands": true,
+  "devcommands": true,
+  "handlenewmembers": true,
+  "handleremovedmembers": true,
+  "checknewmembersfordiscord": true,
+  "dropboxautomation": true,
+  "activitylogging": true,
+  "handleautocomplete": true
+}
