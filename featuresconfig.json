@@ -7,5 +7,6 @@
   "handledropboxmessages": true,
   "activitylogging": true,
   "quotalogging": true,
-  "handleautocomplete": true
+  "handleautocomplete": true,
+  "actionlogging": true
 }
