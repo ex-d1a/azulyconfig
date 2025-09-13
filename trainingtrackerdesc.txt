@@ -1,0 +1,7 @@
+This board shows who is actively requesting trainings at the moment. To request for training type(s) to be hosted, you can choose them from the dropdown menu below. Once you've chosen the types of trainings to request, you'll be added to the board. You can unsubscribe from them by unselecting them in the dropdown menu or pressing the clear button. Security Senior and above are encouraged to host trainings which are requested more.
+
+If someone has a (R) next to their username in the board, it means they have not just requested the training, but also currently need it for their promotion requirements. Such requests may be prioritized over others by training hosts. (This is checked automatically through the [Universal Sheet](https://docs.google.com/spreadsheets/d/13HT4o4WYqfme1hfsmym9zCrJ6gJDG4nZatMg0W0xdu0/edit?gid=798170936#gid=798170936))
+
+> - Request trainings only if you plan on attending them, do not request trainings if you aren't able to attend them and clear your request once you're no longer available to attend. This can be done automatically using the `/trainingrequests setautoclear` command, which will make Azuly remove your request after a set amount of time.
+> - You can only request trainings that your rank allows you to attend. (e.g. Security Sentinels can't request a Cadet Orientation)
+> - Misuse of the training requests feature may result in disciplinary action at the discretion of SD Command.
