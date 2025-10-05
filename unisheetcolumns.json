@@ -20,13 +20,13 @@
   "Sentinel Evaluation": "R",
   "Sentinel Promotion Date": "G",
   "Specialist Cohost": "I",
-  "Specialist Time": "L",
+  "Specialist Time": "K",
   "Specialist Promotion Date": "G",
   "Available": "W",
   "Cadet Eligibility": "P",
   "Junior Eligibility": "O",
   "Sentinel Eligibility": "Q",
-  "Specialist Eligibility": "P",
+  "Specialist Eligibility": "O",
   "Cadet SE": "V",
   "Specialist Escorts": "V",
   "Cadet Leftmost": "C",
@@ -36,7 +36,9 @@
   "Sentinel Leftmost": "C",
   "Sentinel Rightmost": "O",
   "Specialist Leftmost": "C",
-  "Specialist Rightmost": "N",
+  "Specialist Rightmost": "M",
   "Quota Leftmost": "C",
   "Quota Rightmost": "I"
 }
+
+
